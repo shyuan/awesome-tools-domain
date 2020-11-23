@@ -4,3 +4,4 @@
 * [oauth.tools](https://oauth.tools/) An OAuth 2.0 client test site
 * [openapi.tools](https://openapi.tools/) An curator site to introduce Open API
 * [csv.tools](http://csv.tools) Redirect to [xcsv.info](https://xcsv.info/)
+* [fastlane.tools](https://fastlane.tools/)
