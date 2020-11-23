@@ -5,3 +5,4 @@
 * [openapi.tools](https://openapi.tools/) An curator site to introduce Open API
 * [csv.tools](http://csv.tools) Redirect to [xcsv.info](https://xcsv.info/)
 * [fastlane.tools](https://fastlane.tools/)
+* [aws.tools](https://aws.tools) Redirect to [AWS Tools](https://aws.amazon.com/tw/tools/)
