@@ -6,3 +6,4 @@
 * [csv.tools](http://csv.tools) Redirect to [xcsv.info](https://xcsv.info/)
 * [fastlane.tools](https://fastlane.tools/)
 * [aws.tools](https://aws.tools) Redirect to [AWS Tools](https://aws.amazon.com/tw/tools/)
+* [kui](https://kui.tools)
